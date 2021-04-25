@@ -1,1 +1,1 @@
-Reproducible example for spruce/openeye protonation problem. 
+Reproducible example for spruce/openeye protonation problem. See 'Dimer.ipynb'. 
